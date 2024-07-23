@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+  color: rgb(8, 7, 78);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+table,
+tr,
+td {
+  border: 1px solid rgb(8, 7, 78);
+  border-collapse: collapse;
+}
+
+table {
+  font-size: 1.25rem;
+}
+table td {
+  padding: 0.25rem 0.5rem;
+}/*# sourceMappingURL=style.css.map */
